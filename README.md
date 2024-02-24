@@ -1,4 +1,4 @@
-This was my very first project as a programmer. I worked on it by myself during a span of 3 months as I taught myself PHP, SQL, and HTML. The W3.CSS template used for the website can be accessed through the following link: https://www.w3schools.com/w3css/tryit.asp?filename=tryw3css_templates_interio
+This was my very first project as a programmer. I worked on it by myself during a span of 3 months where I taught myself PHP, SQL, and HTML. The W3.CSS template used for the website can be accessed through the following link: https://www.w3schools.com/w3css/tryit.asp?filename=tryw3css_templates_interio
 
 **What the project entails:** 
 1. The final product will be accessible on various platforms such as MacOSX, IOS and Windows.
