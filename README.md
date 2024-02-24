@@ -11,3 +11,6 @@ This was my very first project as a programmer. I worked on it by myself during 
 8. The creator of the league can choose to invite a specific player, making leagues private.
 9. The final product will provide encryption for important data (i.e. passwords) to provide safe navigation through the site.
 10. The user can view the latest matches which need predicting to be aware of the due date.
+
+A video explaining the functionality of the code can be seen through the link below:
+https://drive.google.com/file/d/1Ia6rvElIhoyZQf8mlX0vbmEpL3VA3siO/view?usp=sharing
